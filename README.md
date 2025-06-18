@@ -1,5 +1,5 @@
   ###
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfcomo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eta-six-95.vercel.app/api/top-langs/?username=jmfcomo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jmfcomo/jmfcomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
